@@ -1,0 +1,1784 @@
+2014/12/01 18:56:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/actionReserva=1
+---
+2014/12/01 18:58:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/action?buscarTarjeta=1
+---
+2014/12/01 19:02:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/action".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/action')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/action?buscarTarjeta=1
+---
+2014/12/01 19:02:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/action".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/action')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/action?buscarTarjeta=1
+---
+2014/12/01 19:02:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/action".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/action')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/action?buscarTarjeta=1
+---
+2014/12/01 19:04:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/actionReserva".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/actionR...')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/actionReserva?1
+---
+2014/12/01 19:04:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/actionReserva".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/actionR...')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/actionReserva?1
+---
+2014/12/01 19:04:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/actionReserva".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/actionR...')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/actionReserva?1
+---
+2014/12/01 19:04:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/actionReserva".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/actionR...')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/actionReserva?1
+---
+2014/12/01 19:04:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/actionReserva".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/actionR...')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/actionReserva?1
+---
+2014/12/01 19:04:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/actionReserva".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/actionR...')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/actionReserva?1
+---
+2014/12/01 19:04:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/actionReserva".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/actionR...')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/actionReserva?1
+---
+2014/12/01 19:09:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/buscarTarjeta=1".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/buscarT...')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/buscarTarjeta=1
+---
+2014/12/01 19:09:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/buscarTarjeta=1".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/buscarT...')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/buscarTarjeta=1
+---
+2014/12/01 19:14:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/reserva/tarjeta=1".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/reserva...')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/reserva/tarjeta=1
+---
+2014/12/01 19:14:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/reserva/tarjeta=1".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/reserva...')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/reserva/tarjeta=1
+---
+2014/12/01 19:14:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/reserva/tarjeta=1".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/reserva...')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/reserva/tarjeta=1
+---
+2014/12/01 19:14:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/Reserva/tarjeta=1".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva...')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva/tarjeta=1
+---
+2014/12/01 19:14:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/Reserva/tarjeta=1".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva...')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva/tarjeta=1
+---
+2014/12/01 19:14:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/Reserva/tarjeta=1".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva...')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva/tarjeta=1
+---
+2014/12/01 19:14:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/Reserva/tarjeta=1".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva...')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva/tarjeta=1
+---
+2014/12/01 19:14:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/Reserva/tarjeta=1".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva...')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva/tarjeta=1
+---
+2014/12/01 19:14:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/Reserva/tarjeta=1".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva...')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva/tarjeta=1
+---
+2014/12/01 19:14:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/Reserva/tarjeta=1".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva...')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva/tarjeta=1
+---
+2014/12/01 19:39:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/Reserva".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1
+---
+2014/12/01 19:41:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Service/Reserva".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1
+---
+2014/12/01 19:53:29 [error] [php] Missing argument 2 for Reserva::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 395 and defined (C:\wamp\www\WebService\protected\models\Reserva.php:10)
+Stack trace:
+#0 C:\wamp\www\WebService\protected\controllers\ServiceController.php(34): model()
+#1 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#2 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#4 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#5 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#6 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1
+in C:\wamp\www\WebService\protected\models\Reserva.php (10)
+in C:\wamp\www\WebService\protected\models\Reserva.php (26)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (34)
+2014/12/01 20:00:07 [error] [php] Undefined variable: ciudad (C:\wamp\www\WebService\protected\controllers\ServiceController.php:34)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#1 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#2 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (34)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/01 20:00:36 [error] [php] Undefined variable: complejos (C:\wamp\www\WebService\protected\controllers\ServiceController.php:35)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#1 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#2 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (35)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/01 20:10:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/webservice/index.php?r=site/contact
+HTTP_REFERER=http://localhost/webservice/index.php?r=site/page&view=about
+---
+2014/12/01 20:10:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/webservice/index.php?r=site/page&view=about
+HTTP_REFERER=http://localhost/webservice/index.php?r=site/contact
+---
+2014/12/01 20:10:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\wamp\www\Yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#1 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/webservice/
+---
+2014/12/01 20:36:30 [error] [php] Undefined variable: tarjeta (C:\wamp\www\WebService\protected\models\Reserva.php:37)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#2 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#6 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1234
+in C:\wamp\www\WebService\protected\models\Reserva.php (37)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/01 20:37:07 [error] [php] json_decode() expects parameter 1 to be string, object given (C:\wamp\www\WebService\protected\models\Reserva.php:38)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#1 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#3 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#5 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#7 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1234
+in C:\wamp\www\WebService\protected\models\Reserva.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/01 20:38:42 [error] [php] json_decode() expects parameter 1 to be string, object given (C:\wamp\www\WebService\protected\models\Reserva.php:38)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#1 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#3 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#5 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#7 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1234
+in C:\wamp\www\WebService\protected\models\Reserva.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/01 20:38:43 [error] [php] json_decode() expects parameter 1 to be string, object given (C:\wamp\www\WebService\protected\models\Reserva.php:38)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#1 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#3 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#5 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#7 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1234
+in C:\wamp\www\WebService\protected\models\Reserva.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/01 20:38:47 [error] [php] json_decode() expects parameter 1 to be string, object given (C:\wamp\www\WebService\protected\models\Reserva.php:38)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#1 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#3 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#5 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#7 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1234
+in C:\wamp\www\WebService\protected\models\Reserva.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/01 20:48:53 [error] [php] Missing argument 1 for Reserva::buscarTarjeta(), called in C:\wamp\www\WebService\protected\controllers\ServiceController.php on line 37 and defined (C:\wamp\www\WebService\protected\models\Reserva.php:35)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#2 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#6 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1234
+in C:\wamp\www\WebService\protected\models\Reserva.php (35)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/01 21:10:29 [error] [php] Undefined variable: Tarjeta (C:\wamp\www\WebService\protected\models\Reserva.php:39)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#2 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#6 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1234
+in C:\wamp\www\WebService\protected\models\Reserva.php (39)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/01 21:17:04 [error] [php] include(Tarjetas.php): failed to open stream: No such file or directory (C:\wamp\www\Yii\framework\YiiBase.php:427)
+Stack trace:
+#0 C:\wamp\www\WebService\protected\controllers\ServiceController.php(36): spl_autoload_call()
+#1 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#2 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#4 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#5 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#6 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1234
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 01:53:03 [error] [php] Undefined variable: Tarjeta (C:\wamp\www\WebService\protected\models\Tarjetas.php:43)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#2 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#6 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1234
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (43)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 01:55:46 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined. The SQL statement executed was: SELECT * FROM `tarjetas` `t` WHERE Tarjeta = :Tarjeta.
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (46)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 01:55:46 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined. The SQL statement executed was: SELECT * FROM `tarjetas` `t` WHERE Tarjeta = :Tarjeta' in C:\wamp\www\Yii\framework\db\CDbCommand.php:543
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): CDbCommand->queryAll()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): CActiveRecord->query(Object(CDbCriteria), true)
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(46): CActiveRecord->findAll(Object(CDbCriteria))
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(36): Tarjetas->buscarTarjeta('1234')
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): CController->run('Reserva')
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva')
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#13 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1234
+---
+2014/12/02 01:57:49 [error] [php] Object of class Tarjetas could not be converted to string (C:\wamp\www\Yii\framework\db\schema\CDbCommandBuilder.php:481)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#1 C:\wamp\www\WebService\protected\models\Tarjetas.php(44): Tarjetas->findAll()
+#2 C:\wamp\www\WebService\protected\controllers\ServiceController.php(36): Tarjetas->buscarTarjeta()
+#3 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#4 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#6 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#7 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#8 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1234
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (44)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 02:01:06 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound. The SQL statement executed was: SELECT * FROM `tarjetas` `t` WHERE tarjeta =:tarjeta.
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (48)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 02:01:06 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound. The SQL statement executed was: SELECT * FROM `tarjetas` `t` WHERE tarjeta =:tarjeta' in C:\wamp\www\Yii\framework\db\CDbCommand.php:543
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): CDbCommand->queryAll()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): CActiveRecord->query(Object(CDbCriteria), true)
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(48): CActiveRecord->findAll(Object(CDbCriteria))
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(36): Tarjetas->buscarTarjeta('1234')
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): CController->run('Reserva')
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva')
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#13 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1234
+---
+2014/12/02 02:01:25 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound. The SQL statement executed was: SELECT * FROM `tarjetas` `t` WHERE Tarjeta =:tarjeta.
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (48)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 02:01:25 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound. The SQL statement executed was: SELECT * FROM `tarjetas` `t` WHERE Tarjeta =:tarjeta' in C:\wamp\www\Yii\framework\db\CDbCommand.php:543
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): CDbCommand->queryAll()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): CActiveRecord->query(Object(CDbCriteria), true)
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(48): CActiveRecord->findAll(Object(CDbCriteria))
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(36): Tarjetas->buscarTarjeta('1234')
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): CController->run('Reserva')
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva')
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#13 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1234
+---
+2014/12/02 02:01:40 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound. The SQL statement executed was: SELECT * FROM `tarjetas` `t` WHERE tarjeta = :Tarjeta.
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (48)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 02:01:40 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound. The SQL statement executed was: SELECT * FROM `tarjetas` `t` WHERE tarjeta = :Tarjeta' in C:\wamp\www\Yii\framework\db\CDbCommand.php:543
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): CDbCommand->queryAll()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): CActiveRecord->query(Object(CDbCriteria), true)
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(48): CActiveRecord->findAll(Object(CDbCriteria))
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(36): Tarjetas->buscarTarjeta('1234')
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): CController->run('Reserva')
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva')
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#13 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1234
+---
+2014/12/02 02:01:41 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound. The SQL statement executed was: SELECT * FROM `tarjetas` `t` WHERE tarjeta = :Tarjeta.
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (48)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 02:01:41 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound. The SQL statement executed was: SELECT * FROM `tarjetas` `t` WHERE tarjeta = :Tarjeta' in C:\wamp\www\Yii\framework\db\CDbCommand.php:543
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): CDbCommand->queryAll()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): CActiveRecord->query(Object(CDbCriteria), true)
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(48): CActiveRecord->findAll(Object(CDbCriteria))
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(36): Tarjetas->buscarTarjeta('1234')
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): CController->run('Reserva')
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva')
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#13 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1234
+---
+2014/12/02 02:12:52 [error] [php] Trying to get property of non-object (C:\wamp\www\WebService\protected\models\Tarjetas.php:50)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#2 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#6 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1234
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (50)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 02:13:46 [error] [php] json_decode() expects parameter 1 to be string, array given (C:\wamp\www\WebService\protected\models\Tarjetas.php:50)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#1 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#3 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#5 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#7 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1234
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (50)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 02:13:59 [error] [php] Trying to get property of non-object (C:\wamp\www\WebService\protected\models\Tarjetas.php:51)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#2 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#6 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1234
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (51)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 02:24:15 [error] [php] Trying to get property of non-object (C:\wamp\www\WebService\protected\models\Tarjetas.php:52)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#2 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#6 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1234
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (52)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 02:26:40 [error] [php] json_decode() expects parameter 1 to be string, array given (C:\wamp\www\WebService\protected\models\Tarjetas.php:52)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#1 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#3 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#5 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#7 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (52)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 02:29:15 [error] [php] Undefined index: Tarjeta (C:\wamp\www\WebService\protected\models\Tarjetas.php:55)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#2 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#6 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (55)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 02:40:16 [error] [php] Undefined index: Tarjeta (C:\wamp\www\WebService\protected\models\Tarjetas.php:52)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#2 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#6 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (52)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 02:43:22 [error] [php] Undefined index: Tarjeta (C:\wamp\www\WebService\protected\models\Tarjetas.php:52)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#2 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#6 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (52)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 02:43:23 [error] [php] Undefined index: Tarjeta (C:\wamp\www\WebService\protected\models\Tarjetas.php:52)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#2 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#6 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (52)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 02:43:28 [error] [php] Undefined offset: 0 (C:\wamp\www\WebService\protected\models\Tarjetas.php:52)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#2 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#6 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (52)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 02:49:30 [error] [php] Trying to get property of non-object (C:\wamp\www\WebService\protected\models\Tarjetas.php:52)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#2 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#6 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (52)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 02:51:59 [error] [php] Undefined index: Tarjeta (C:\wamp\www\WebService\protected\models\Tarjetas.php:52)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#2 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#6 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (52)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 02:52:09 [error] [php] Undefined variable: tar (C:\wamp\www\WebService\protected\models\Tarjetas.php:57)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#2 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#6 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (57)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 02:58:34 [error] [php] include(Tarjeta.php): failed to open stream: No such file or directory (C:\wamp\www\Yii\framework\YiiBase.php:427)
+Stack trace:
+#0 C:\wamp\www\WebService\protected\controllers\ServiceController.php(38): spl_autoload_call()
+#1 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#2 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#4 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#5 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#6 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (38)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 02:59:05 [error] [php] require(Tarjeta.php): failed to open stream: No such file or directory (C:\wamp\www\WebService\protected\controllers\ServiceController.php:3)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#1 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#2 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#3 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (3)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (3)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 02:59:34 [error] [exception.CException] exception 'CException' with message 'Property "Tarjetas.tarjeta" is not defined.' in C:\wamp\www\Yii\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(161): CComponent->__set('tarjeta', '123456788')
+#1 C:\wamp\www\WebService\protected\models\Tarjetas.php(23): CActiveRecord->__set('tarjeta', '123456788')
+#2 C:\wamp\www\WebService\protected\controllers\ServiceController.php(37): Tarjetas->__construct('123456788')
+#3 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#4 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\Yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\Yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): CController->run('Reserva')
+#8 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva')
+#9 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+---
+2014/12/02 03:02:42 [error] [exception.CException] exception 'CException' with message 'Property "Tarjetas.tarjeta" is not defined.' in C:\wamp\www\Yii\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(161): CComponent->__set('tarjeta', '123456788')
+#1 C:\wamp\www\WebService\protected\models\Tarjetas.php(23): CActiveRecord->__set('tarjeta', '123456788')
+#2 C:\wamp\www\WebService\protected\controllers\ServiceController.php(37): Tarjetas->__construct('123456788')
+#3 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#4 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\Yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\Yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): CController->run('Reserva')
+#8 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva')
+#9 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+---
+2014/12/02 03:03:42 [error] [exception.CException] exception 'CException' with message 'Property "Tarjetas.tarjeta" is not defined.' in C:\wamp\www\Yii\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(161): CComponent->__set('tarjeta', '123456788')
+#1 C:\wamp\www\WebService\protected\models\Tarjetas.php(23): CActiveRecord->__set('tarjeta', '123456788')
+#2 C:\wamp\www\WebService\protected\controllers\ServiceController.php(37): Tarjetas->__construct('123456788')
+#3 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#4 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\Yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\Yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): CController->run('Reserva')
+#8 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva')
+#9 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+---
+2014/12/02 03:06:17 [error] [exception.CException] exception 'CException' with message 'Property "Tarjetas.tarjeta" is not defined.' in C:\wamp\www\Yii\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(161): CComponent->__set('tarjeta', '123456788')
+#1 C:\wamp\www\WebService\protected\models\Tarjetas.php(23): CActiveRecord->__set('tarjeta', '123456788')
+#2 C:\wamp\www\WebService\protected\controllers\ServiceController.php(37): Tarjetas->__construct('123456788')
+#3 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#4 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\Yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\Yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): CController->run('Reserva')
+#8 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva')
+#9 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+---
+2014/12/02 03:07:40 [error] [exception.CException] exception 'CException' with message 'Property "Tarjetas.tarjeta" is not defined.' in C:\wamp\www\Yii\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(161): CComponent->__set('tarjeta', '123456788')
+#1 C:\wamp\www\WebService\protected\models\Tarjetas.php(23): CActiveRecord->__set('tarjeta', '123456788')
+#2 C:\wamp\www\WebService\protected\controllers\ServiceController.php(37): Tarjetas->__construct('123456788')
+#3 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#4 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\Yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\Yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): CController->run('Reserva')
+#8 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva')
+#9 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+---
+2014/12/02 03:07:41 [error] [exception.CException] exception 'CException' with message 'Property "Tarjetas.tarjeta" is not defined.' in C:\wamp\www\Yii\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(161): CComponent->__set('tarjeta', '123456788')
+#1 C:\wamp\www\WebService\protected\models\Tarjetas.php(23): CActiveRecord->__set('tarjeta', '123456788')
+#2 C:\wamp\www\WebService\protected\controllers\ServiceController.php(37): Tarjetas->__construct('123456788')
+#3 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#4 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\Yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\Yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): CController->run('Reserva')
+#8 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva')
+#9 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+---
+2014/12/02 03:07:41 [error] [exception.CException] exception 'CException' with message 'Property "Tarjetas.tarjeta" is not defined.' in C:\wamp\www\Yii\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(161): CComponent->__set('tarjeta', '123456788')
+#1 C:\wamp\www\WebService\protected\models\Tarjetas.php(23): CActiveRecord->__set('tarjeta', '123456788')
+#2 C:\wamp\www\WebService\protected\controllers\ServiceController.php(37): Tarjetas->__construct('123456788')
+#3 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#4 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\Yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\Yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): CController->run('Reserva')
+#8 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva')
+#9 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+---
+2014/12/02 03:07:41 [error] [exception.CException] exception 'CException' with message 'Property "Tarjetas.tarjeta" is not defined.' in C:\wamp\www\Yii\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(161): CComponent->__set('tarjeta', '123456788')
+#1 C:\wamp\www\WebService\protected\models\Tarjetas.php(23): CActiveRecord->__set('tarjeta', '123456788')
+#2 C:\wamp\www\WebService\protected\controllers\ServiceController.php(37): Tarjetas->__construct('123456788')
+#3 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#4 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\Yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\Yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): CController->run('Reserva')
+#8 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva')
+#9 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+---
+2014/12/02 03:08:05 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined. The SQL statement executed was: SELECT * FROM `tarjetas` `t` WHERE tarjeta = :id.
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (43)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (38)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 03:08:05 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined. The SQL statement executed was: SELECT * FROM `tarjetas` `t` WHERE tarjeta = :id' in C:\wamp\www\Yii\framework\db\CDbCommand.php:543
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): CDbCommand->queryAll()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): CActiveRecord->query(Object(CDbCriteria), true)
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(43): CActiveRecord->findAll(Object(CDbCriteria))
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(38): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): CController->run('Reserva')
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva')
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#13 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+---
+2014/12/02 03:08:22 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined. The SQL statement executed was: SELECT * FROM `tarjetas` `t` WHERE id = :id.
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (43)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (38)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 03:08:22 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined. The SQL statement executed was: SELECT * FROM `tarjetas` `t` WHERE id = :id' in C:\wamp\www\Yii\framework\db\CDbCommand.php:543
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): CDbCommand->queryAll()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): CActiveRecord->query(Object(CDbCriteria), true)
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(43): CActiveRecord->findAll(Object(CDbCriteria))
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(38): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): CController->run('Reserva')
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva')
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#13 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+---
+2014/12/02 03:17:23 [error] [php] Undefined index: contraseña (C:\wamp\www\WebService\protected\controllers\ServiceController.php:33)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#1 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#2 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (33)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 03:17:26 [error] [php] Undefined index: contraseña (C:\wamp\www\WebService\protected\controllers\ServiceController.php:33)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#1 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#2 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (33)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 03:17:35 [error] [php] Undefined variable: tarjeta (C:\wamp\www\WebService\protected\controllers\ServiceController.php:40)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#1 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#2 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (40)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 03:25:20 [error] [php] Undefined index: contraseña (C:\wamp\www\WebService\protected\controllers\ServiceController.php:31)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#1 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#2 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (31)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 03:26:46 [error] [php] Undefined index: contraseña (C:\wamp\www\WebService\protected\controllers\ServiceController.php:31)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#1 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#2 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (31)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 03:28:45 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(38): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(35): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (35)
+2014/12/02 03:29:14 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(38): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(35): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (35)
+2014/12/02 03:29:37 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(38): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(35): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (35)
+2014/12/02 03:42:42 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(38): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(35): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (35)
+2014/12/02 03:43:26 [error] [php] Undefined index: password (C:\wamp\www\WebService\protected\controllers\ServiceController.php:31)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#1 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#2 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&?password=12345&?precio=100
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (31)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 03:44:59 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(38): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(35): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (35)
+2014/12/02 03:47:14 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(38): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(37): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+2014/12/02 03:47:15 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(38): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(37): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+2014/12/02 03:47:15 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(38): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(37): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+2014/12/02 03:47:16 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(38): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(37): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+2014/12/02 03:47:36 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(38): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(37): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+2014/12/02 03:47:36 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(38): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(37): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+2014/12/02 03:47:39 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(38): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(37): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+2014/12/02 03:47:51 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(38): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(37): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+2014/12/02 03:48:15 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(38): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(37): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+2014/12/02 03:48:16 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(38): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(37): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+2014/12/02 03:50:53 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(38): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(37): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+2014/12/02 03:51:18 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(38): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(37): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+2014/12/02 03:52:05 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(38): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(39): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (39)
+2014/12/02 03:52:10 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(38): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(39): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (39)
+2014/12/02 03:54:28 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(38): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(36): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+2014/12/02 03:55:22 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(38): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(36): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (38)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (36)
+2014/12/02 04:01:56 [error] [php] Undefined variable: prec (C:\wamp\www\WebService\protected\models\Tarjetas.php:67)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#1 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#3 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#5 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#7 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (67)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (25)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (35)
+2014/12/02 04:07:27 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(49): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(38): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (49)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (38)
+2014/12/02 04:07:48 [error] [php] Undefined variable: Respuesta (C:\wamp\www\WebService\protected\controllers\ServiceController.php:39)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#1 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#2 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (39)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 04:09:36 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(49): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(38): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (49)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (38)
+2014/12/02 04:10:47 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(49): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(38): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (49)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (38)
+2014/12/02 04:11:56 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(50): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(38): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (50)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (38)
+2014/12/02 04:11:57 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(50): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(38): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (50)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (38)
+2014/12/02 04:12:01 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(50): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(38): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (50)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (38)
+2014/12/02 04:12:22 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(51): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(38): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (51)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (38)
+2014/12/02 04:12:23 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(51): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(38): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (51)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (38)
+2014/12/02 04:12:34 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(42): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(38): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (42)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (38)
+2014/12/02 04:12:37 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(42): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(38): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (42)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (38)
+2014/12/02 04:14:02 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(42): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(38): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (42)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (38)
+2014/12/02 04:14:33 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(41): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(38): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (41)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (38)
+2014/12/02 04:17:26 [error] [php] Undefined variable: Respuesta (C:\wamp\www\WebService\protected\controllers\ServiceController.php:40)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#1 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#2 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (40)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 04:19:51 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(40): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(39): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (40)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (39)
+2014/12/02 04:25:07 [error] [php] Missing argument 2 for Tarjetas::__construct(), called in C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php on line 1911 and defined (C:\wamp\www\WebService\protected\models\Tarjetas.php:11)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1887): Tarjetas->populateRecord()
+#1 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1351): Tarjetas->populateRecords()
+#2 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(1470): Tarjetas->query()
+#3 C:\wamp\www\WebService\protected\models\Tarjetas.php(40): Tarjetas->findAll()
+#4 C:\wamp\www\WebService\protected\controllers\ServiceController.php(39): Tarjetas->buscarTarjeta()
+#5 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#6 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#8 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#9 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#10 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (11)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (40)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (39)
+2014/12/02 04:34:35 [error] [php] Undefined offset: 0 (C:\wamp\www\WebService\protected\models\Tarjetas.php:44)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#2 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#6 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=1123456788&password=122345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (44)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 04:43:34 [error] [php] Undefined variable: pass2 (C:\wamp\www\WebService\protected\models\Tarjetas.php:62)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#2 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#6 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=100
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (62)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 04:52:39 [error] [php] Undefined variable: Resultado (C:\wamp\www\WebService\protected\models\Tarjetas.php:62)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#1 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#3 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#5 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#7 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=12
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (62)
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (44)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+2014/12/02 04:59:17 [error] [php] Undefined variable: passbd (C:\wamp\www\WebService\protected\models\Tarjetas.php:48)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#2 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#4 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#6 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=1111112
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (48)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 05:25:03 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'. The SQL statement executed was: UPDATE `tarjetas` SET `credito`=credito + 100 WHERE id=:id.
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (51)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 05:25:03 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'. The SQL statement executed was: UPDATE `tarjetas` SET `credito`=credito + 100 WHERE id=:id' in C:\wamp\www\Yii\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\CDbCommand.php(1285): CDbCommand->execute(Array)
+#1 C:\wamp\www\WebService\protected\models\Tarjetas.php(51): CDbCommand->update('tarjetas', Array, 'id=:id', Array)
+#2 C:\wamp\www\WebService\protected\controllers\ServiceController.php(37): Tarjetas->buscarTarjeta('123456788', '12345', '11')
+#3 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#4 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\Yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\Yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): CController->run('Reserva')
+#8 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva')
+#9 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=11
+---
+2014/12/02 05:28:33 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column '$prec' in 'field list'. The SQL statement executed was: UPDATE `tarjetas` SET `credito`=credito - $prec WHERE tarjeta=:tarjeta.
+in C:\wamp\www\WebService\protected\models\Tarjetas.php (51)
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (37)
+in C:\wamp\www\WebService\index.php (13)
+2014/12/02 05:28:33 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S22]: Column not found: 1054 Unknown column '$prec' in 'field list'. The SQL statement executed was: UPDATE `tarjetas` SET `credito`=credito - $prec WHERE tarjeta=:tarjeta' in C:\wamp\www\Yii\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\CDbCommand.php(1285): CDbCommand->execute(Array)
+#1 C:\wamp\www\WebService\protected\models\Tarjetas.php(51): CDbCommand->update('tarjetas', Array, 'tarjeta=:tarjet...', Array)
+#2 C:\wamp\www\WebService\protected\controllers\ServiceController.php(37): Tarjetas->buscarTarjeta('123456788', '12345', '11')
+#3 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#4 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\Yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\Yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): CController->run('Reserva')
+#8 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva')
+#9 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=11
+---
+2014/12/02 05:35:45 [error] [exception.CException] exception 'CException' with message 'Tarjetas and its behaviors do not have a method or closure named "generaCodReserva".' in C:\wamp\www\Yii\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\wamp\www\Yii\framework\db\ar\CActiveRecord.php(227): CComponent->__call('generaCodReserv...', Array)
+#1 C:\wamp\www\WebService\protected\controllers\ServiceController.php(35): CActiveRecord->__call('generaCodReserv...', Array)
+#2 C:\wamp\www\WebService\protected\controllers\ServiceController.php(35): Tarjetas->generaCodReserva()
+#3 C:\wamp\www\Yii\framework\web\actions\CInlineAction.php(49): ServiceController->actionReserva()
+#4 C:\wamp\www\Yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\Yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\Yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): CController->run('Reserva')
+#8 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/Reserva')
+#9 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/WebService/index.php/Service/Reserva?tarjeta=123456788&password=12345&precio=11
+---
+2014/12/03 01:03:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "TiempoLimite".' in C:\wamp\www\Yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(270): CController->missingAction('TiempoLimite')
+#1 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): CController->run('TiempoLimite')
+#2 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController('Service/TiempoL...')
+#3 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\WebService\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/WebService/index.php/Service/TiempoLimite?tarjeta=123456788&devolucion=500
+---
+2014/12/03 01:03:20 [error] [php] Undefined variable: tarjeta (C:\wamp\www\WebService\protected\controllers\ServiceController.php:43)
+Stack trace:
+#0 C:\wamp\www\Yii\framework\web\CController.php(286): ServiceController->runAction()
+#1 C:\wamp\www\Yii\framework\web\CController.php(265): ServiceController->runActionWithFilters()
+#2 C:\wamp\www\Yii\framework\web\CWebApplication.php(282): ServiceController->run()
+#3 C:\wamp\www\Yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\wamp\www\Yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\wamp\www\WebService\index.php(13): CWebApplication->run()
+REQUEST_URI=/WebService/index.php/Service/TiempoLimite?tarjeta=123456788&devolucion=500
+in C:\wamp\www\WebService\protected\controllers\ServiceController.php (43)
+in C:\wamp\www\WebService\index.php (13)
